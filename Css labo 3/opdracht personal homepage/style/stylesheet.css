@@ -1,0 +1,32 @@
+.inleiding,.sectie1,.sectie2{
+    color: saddlebrown;
+    padding: 40px;
+    margin-top: 20px;
+    background-color: lightgray;
+}
+
+.wrap{
+    background-color: darkgrey;
+    padding: 50px;
+}
+
+.vrienden {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+    font: normal 12px/150% Arial, Helvetica, sans-serif;
+    background: #fff;
+    overflow: hidden;
+    border: 1px solid #000000;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    padding: 3px 10px;
+    color: #7D7D7D;
+    border-left: 2px solid #DBDBDB;
+    font-size: 12px;
+    border-bottom: 2px solid #E1EEF4;
+    font-weight: bold;
+    border-left: none;
+    border-bottom: none;
+}
