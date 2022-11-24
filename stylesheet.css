@@ -1,0 +1,41 @@
+.wrap{
+    border-radius: 3ex;
+    border: black;
+    border-width: 10ex;
+    background-color: rgba(13,18,63,0.45);
+    margin-left: 5ex;
+    margin-right: 5ex;
+    margin-top: 5ex;
+}
+
+main{
+    padding-top: 1ex;
+    padding-right: 50ex;
+    padding-left: 50ex;
+    padding-bottom: 1ex;
+
+}
+
+body{
+    background: darkgrey;
+    background-image: url("https://cdn.mwallpapers.com/photos/wallpapers/anime/sasuke-uchiha-hd-android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4khd-wallpapers-desktop-background-android-iphone-1080p-4k-a0i8u.jpg");
+}
+.begin{
+    border-radius: 3ex;
+    border: black;
+    border-width: 10ex;
+    background-color: #E00020;
+    padding-right: 45ex;
+    padding-left: 45ex;
+    font-family: Helvetica,Arial,sans-serif;
+    color: #EDF2F4;
+}
+
+h1{
+    font-family: Helvetica,Arial,sans-serif;
+}
+.links{
+    font-family: Helvetica,Arial,sans-serif;
+    color: #EDF2F4;
+}
+
