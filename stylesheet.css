@@ -17,6 +17,9 @@ main{
 }
 
 body{
+    display:flex;
+    align-items: stretch;
+    justify-content: center;
     background: darkgrey;
     background-image: url("https://cdn.mwallpapers.com/photos/wallpapers/anime/sasuke-uchiha-hd-android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4khd-wallpapers-desktop-background-android-iphone-1080p-4k-a0i8u.jpg");
 }
