@@ -16,6 +16,10 @@ main{
 
 }
 
+.header{
+
+}
+
 body{
     display:flex;
     align-items: stretch;
@@ -27,6 +31,9 @@ body{
     border: black;
     border-width: 10ex;
     background-color: #E00020;
+    margin-top: 2ex;
+    margin-left: 2ex;
+    margin-right: 2ex;
     padding-right: 45ex;
     padding-left: 45ex;
     font-family: Helvetica,Arial,sans-serif;
