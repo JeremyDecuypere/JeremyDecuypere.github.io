@@ -16,9 +16,7 @@ main{
 
 }
 
-.header{
 
-}
 
 body{
     display:flex;
@@ -48,3 +46,7 @@ h1{
     color: #EDF2F4;
 }
 
+.A{
+    font-family: Helvetica,Arial,sans-serif;
+    background: #C0C2C9;
+}
