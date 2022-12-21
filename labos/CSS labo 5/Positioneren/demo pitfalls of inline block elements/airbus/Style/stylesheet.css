@@ -1,0 +1,50 @@
+body{
+    width: 960px;
+    margin: 0px auto;
+    padding: 0px;
+    background: #E6E6E6 url("../fotos/pagebackground.png") repeat-y center top;
+}
+
+.top{
+    margin-top: 0px;
+    height: 200px;
+    background-image: url("../fotos/bgsky3.jpg")  ;
+    color: darkblue;
+    font-size: 300%;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+
+
+}
+
+.afbeelding1{
+    position:absolute;
+    bottom: 60px;
+    right: 250px;
+}
+
+.ondertitel{
+    font-size: 240%;
+}
+
+#news {
+    float: right;
+    width: 250px;
+    background-color: #dddddd;
+    border-width: 1px;
+    border-color: #999999;
+    text-align: center;
+    font-size: 90%;
+}
+
+
+
+
+
+#news h1{
+    text-align: center;
+    background-color: blue;
+    color:white;
+    font-size: 120%;
+}
